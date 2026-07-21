@@ -42,31 +42,6 @@ Whether you're revising JavaScript or starting from scratch, this repository may
 
 ---
 
-## 📂 Repository Structure
-
-```
-
-.
-├── 01_basics/
-├── 02_basics/
-├── 03_basics/
-├── 04_control_flow/
-├── 05_iterations/
-├── 06_dom/
-├── 07_projects/
-├── 08_events/
-├── 09_advanced/
-├── 10_oop/
-├── 11_fun_with_js/
-├── 12_modules/
-└── README.md
-
-````
-
-> Folder names may change as the learning journey progresses.
-
----
-
 ## 🛠 Technologies Used
 
 - JavaScript (ES6+)
@@ -82,8 +57,8 @@ Whether you're revising JavaScript or starting from scratch, this repository may
 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
-````
+git clone https://github.com/ArbaazAli1209/Js-Tutorial.git
+``
 
 2. Open the project in VS Code.
 
